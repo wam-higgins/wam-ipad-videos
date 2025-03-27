@@ -19,7 +19,4 @@ BTS-2.mp4
 BTS-3.mp4
 BTS-4.mp4
 
-3D Models goes to 3dmodels.html and currently has a mix of videos and embedded models from Sketchfab.
-The videos are:
-3D-1.mp4
-3D-2.mp4
+3D Models goes to 3dmodels.html and currently has embedded models from Sketchfab.
