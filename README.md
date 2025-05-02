@@ -5,7 +5,8 @@ On the main home page, are 3 sections: Featured, "Behind the Scenes" "Spotlight"
 
 At the moment, feature1.mp4 is linked fro mthe Featured quarter (Upper left).
 
-We need placeholders (or clips) for the 4 sections.
+We need placeholders (or clips) for the 4 sections. 
+
 
 Spotlight goes to the spotlight.html page and features 4 videos: 
 SPOT1.mp4
